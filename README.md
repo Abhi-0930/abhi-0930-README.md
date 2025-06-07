@@ -101,13 +101,14 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandankumar123456&show_icons=true&theme=tokyonight&rank_icon=github" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandankumar123456&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-0930&show_icons=true&theme=tokyonight&rank_icon=github" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-0930&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandankumar123456&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-0930&theme=tokyonight" width="90%" />
 </p>
+
 
 
 ---
